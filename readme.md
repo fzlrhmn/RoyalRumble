@@ -11,7 +11,10 @@
     - for windows, run `main.exe` in command prompt
     - for linux / mac, run `./main`
 
-## Example
+## notes:
+input file `input.txt` must placed in the same directory with binary files `main` or `main.exe`
+
+## Example Output
 ```
 λ ~/RoyalRumble/ ./main
 "David II"
