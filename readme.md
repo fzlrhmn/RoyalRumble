@@ -14,7 +14,7 @@
 
 ## Example
 ```
-λ ~/RoyalRumble/ go run main.go
+λ ~/RoyalRumble/ ./main
 "David II"
 "Louis VIII"
 "Louis IX"
