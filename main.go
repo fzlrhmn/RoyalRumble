@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fzlrhmn/playground/RoyalRumble/util/royal"
+	"github.com/fzlrhmn/RoyalRumble/util/royal"
 )
 
 func main() {

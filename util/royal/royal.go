@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fzlrhmn/playground/RoyalRumble/util/roman"
+	"github.com/fzlrhmn/RoyalRumble/util/roman"
 )
 
 // MapRoyalWithRoman is a function for mapping between
