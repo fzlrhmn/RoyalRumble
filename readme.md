@@ -3,7 +3,6 @@
 ## Installation
 1. Install latest [Go language](https://golang.org/doc/install#install) according to your operating system (windows, macos, linux, etc)
 2. Setup [GOPATH](https://github.com/golang/go/wiki/SettingGOPATH)
-3. 
 
 ## How to use:
 1. Put this project folder in `$GOPATH/src/github.com/fzlrhmn/RoyalRumble`
