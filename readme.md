@@ -5,7 +5,7 @@
 2. Setup [GOPATH](https://github.com/golang/go/wiki/SettingGOPATH)
 
 ## How to use:
-1. Put this project folder in `$GOPATH/src/github.com/fzlrhmn/RoyalRumble`
+1. Put this project folder with name `RoyalRumble` in `$GOPATH/src/github.com/fzlrhmn`, make sure you have folder `/src/github.com/fzlrhmn` before put this project.
 2. Edit `input.txt` with royal name in one line. If there is more than one royal then add more line for each royal respectively.
 2. Run the program as follows
     - for windows, run `main.exe` in command prompt
