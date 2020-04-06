@@ -7,7 +7,7 @@
 ## How to use:
 1. Put this project folder in `$GOPATH/src/github.com/fzlrhmn/RoyalRumble`
 2. Edit `input.txt` with royal name in one line. If there is more than one royal then add more line for each royal respectively.
-2. Run the program as following
+2. Run the program as follows
     - for windows, run `main.exe` in command prompt
     - for linux / mac, run `./main`
 
